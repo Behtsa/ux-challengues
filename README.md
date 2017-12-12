@@ -20,4 +20,17 @@
 
 ### _¿Como?_ Aspectos a evaluar **UI**
 
+Entonces, concluimos que UX es el _¿Por qué?_ de mi sitio y de todo lo que deseo incluir.
+¿Donde queda el UI?
+
+El UI nos va a ayudar a hacer toda la magia dentro del sitio para ayudar a que los objetivos de UX se cumplan.
+**Entonces defini colores, posiciones de imagenes, tipos de letras, etc**
+
+Veamos el analisis: 
+
+1. Si nos damos cuenta, utilizaran los mismos colores a lo largo de la Página, por lo cual se jugara con las combinaciones posibles.
+	- Por ejemplo en los botones para estuiantes (_que es el mas importante_) utilizamos el color amarillo y las letras en negro. Mientras que para las empresas se le da un color amarillo unicamente con el fondo blanco. 
 ![UI Análisis Parte 1](./ui1.png)
+![UI Análisis Parte 2](./ui2.png)
+![UI Análisis Parte 2](./ui3.png)
+
