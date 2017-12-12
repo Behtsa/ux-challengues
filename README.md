@@ -67,6 +67,15 @@ _Entonces veamos el analisis en las siguientes imagenes_
 ![Navegacion Análisis Parte 2](./nav2.png)
 ![Navegacion Análisis Parte 3](./nav3.png)
 
+# Dashboard
+
+A continuacion Sketch para el Dashboard de Laboratoria
+
+![Dashboard](./dashboard.png)
+
+
+
+
 
 
 
