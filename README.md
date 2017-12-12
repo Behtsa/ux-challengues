@@ -1,6 +1,6 @@
 # **1 LABORATORIA ANALISIS UX & UI**
 * UX ¿Por qué?
-	- www.laboratora.la (website) se crea con el objetivo de llamar la atencion de chicas de para que **postulen** a su programa de 6 meses (bootcamp). Que podemos definir como su _plan de negocio_
+	- www.laboratora.la (website) se crea con el objetivo de llamar la atencion de chicas de para que **postulen** a su programa de 6 meses (bootcamp). Que podemos definir como su _plan de negocio_.
 
 ### _¿Por qué?_ Aspectos a evaluar **UX** 
 * Logo : Tener tu logo en la pagina web es de suma importancia ya que de esa manera das a conocer tu marca, es por eso que el diseñador ux decide que es importante incluirlo en el sitio. 
@@ -19,3 +19,5 @@
 * Testimonio empresas (_enfocado a las empresas_): Para las empresas hoy en dia es muy importante contar con personal altamente capacitado, por lo que sin duda es cnveniente dar testimonios en los cuales chicas de laboratoria han sido contratadas por otras empresas de confianza. Lo cual invita a mas empresas a apostar por ese talento.
 
 ### _¿Como?_ Aspectos a evaluar **UI**
+
+![UI Análisis Parte 1](./ui1.png)
